@@ -1,14 +1,14 @@
-# Calendar Scheduling Sample Task
+# Calendar Scheduling & Management Sample
 
 ## Task Overview
-This sample demonstrates how I would manage calendars and schedule meetings efficiently for a client.
+This sample demonstrates how I would manage calendars and coordinate schedules efficiently for a client to ensure smooth daily operations.
 
-## Steps I Would Take
-1. Review the client’s availability and preferences.
-2. Schedule meetings using Google Calendar or Outlook.
-3. Send calendar invites with clear meeting details.
-4. Set reminders to avoid missed meetings.
-5. Reschedule or cancel meetings when required.
+## Responsibilities
+- Review availability and scheduling preferences
+- Schedule meetings, calls, and appointments
+- Send clear calendar invitations with meeting details
+- Set reminders and follow-ups to prevent missed meetings
+- Adjust schedules when changes are required
 
 ## Tools Used
 - Google Calendar
@@ -16,4 +16,4 @@ This sample demonstrates how I would manage calendars and schedule meetings effi
 - Email communication tools
 
 ## Outcome
-Smooth scheduling, reduced conflicts, and improved time management.
+Improved time management, reduced scheduling conflicts, and well-organized calendars that support productivity.

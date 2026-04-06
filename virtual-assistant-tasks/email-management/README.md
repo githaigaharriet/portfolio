@@ -4,7 +4,7 @@
 This project demonstrates how I manage and organize emails for a busy entrepreneur. It includes categorization, prioritization, tracking, and deadline management to ensure efficient communication and task handling.
 
 ### 🏢 Industry  
-Virtual Assistant / Administrative Support  
+Virtual Assistant / Administrative Support 
 
 ### 🛠️ Tools Used  
 - Notion  

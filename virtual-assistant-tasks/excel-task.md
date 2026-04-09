@@ -46,3 +46,7 @@ This project demonstrates how I organize and manage data using Microsoft Excel. 
 
 ## 📎 Note
 This is a **simulated project** to demonstrate my data and Excel management skills as a Virtual Assistant.
+
+**Notion Link for Full Project:**  
+[View Full Excel Project in Excel]
+https://1drv.ms/x/c/43c583ab5409f858/IQArFF5lN3bTQ5ehA6MlCTaRAfF3v1POYXcimAZdwtHJyZg?e=affbur

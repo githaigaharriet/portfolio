@@ -17,6 +17,7 @@ To create a clean and structured inbox system that:
 - Gmail  
 - Labels & Filters  
 - Google Docs (for tracking tasks)  
+- Notion
 
 ---
 
@@ -40,3 +41,7 @@ To create a clean and structured inbox system that:
 
 ## 📎 Note
 This is a simulated project created to demonstrate my email management and organizational skills as a Virtual Assistant.
+
+**Notion Link for Full Project:**  
+[View Full Email Project in Notion]
+https://www.notion.so/Email-Management-System-Sample-Project-33a69ef2443f80fe939fc84a8b0a6312?source=copy_link

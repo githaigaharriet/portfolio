@@ -17,6 +17,7 @@ This project demonstrates how I efficiently organize appointments, meetings, and
 - Microsoft Outlook  
 - Zoom / Google Meet (for online meetings)  
 - Reminder and task management apps (optional)
+- Notion
 
 ---
 
@@ -43,3 +44,7 @@ This project demonstrates how I efficiently organize appointments, meetings, and
 
 ## 📎 Note
 This is a **simulated project** created to demonstrate my skills in calendar and schedule management as a Virtual Assistant.
+
+**Notion Link for Full Project:**  
+[View Full Calendar Project in Notion]
+https://www.notion.so/Calendar-Management-System-33a69ef2443f807d85a9d4ec01a29b2b?source=copy_link

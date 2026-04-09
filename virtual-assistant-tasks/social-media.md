@@ -16,6 +16,7 @@ This project demonstrates how I create visually appealing social media content u
 - Canva  
 - Instagram / Facebook (simulated posting)  
 - Google Calendar or scheduling tool for planning  
+- Notion
 
 ---
 
@@ -39,3 +40,7 @@ This project demonstrates how I create visually appealing social media content u
 
 ## 📎 Note
 This is a **simulated project** to demonstrate my social media and Canva skills as a Virtual Assistant.
+
+**Notion Link for Full Project:**  
+[View Full Calendar Project in Notion]
+https://www.notion.so/Email-Management-System-Sample-Project-33a69ef2443f80fe939fc84a8b0a6312?source=copy_link

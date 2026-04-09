@@ -42,5 +42,5 @@ This project demonstrates how I create visually appealing social media content u
 This is a **simulated project** to demonstrate my social media and Canva skills as a Virtual Assistant.
 
 **Notion Link for Full Project:**  
-[View Full Calendar Project in Notion]
-https://www.notion.so/Email-Management-System-Sample-Project-33a69ef2443f80fe939fc84a8b0a6312?source=copy_link
+[View Full Social Media Project in Notion]
+https://www.notion.so/Social-Media-Content-Planner-33b69ef2443f80dab31dc52f97822cca?source=copy_link
